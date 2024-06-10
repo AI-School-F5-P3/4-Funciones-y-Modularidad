@@ -1,2 +1,3 @@
-# 4_funciones_y_modularidad
+# 4. Funciones y Modularidad
+
 Repositorio personal del grupo 4 sobre Funciones y Modularidad
